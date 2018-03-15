@@ -1,43 +1,27 @@
-# EXAMPLE Study
+# JS Practice
 
-Use your favorite search engine and the provided readings to research and
-respond to the following questions.
+Use your previous lessons, studies, favorite search engine and the provided readings to research and respond to the following questions.
 
-In your responses, be sure to cite any relevant sources you consulted in your
-search. We ask you to write responses in your own words in order to see how you
-process what you've read. Please do not respond with direct quotes from source
-material. Instead, digest what you've read and repeat it in your own voice.
+## Fizzbuzz
 
-## Required Readings
+1.  Fizzbuzz
+- Create a file in this `js-practice` repo in the `bin` folder and name it `bin/fizzbuzz.js`
+>Write a short program that prints each number from 1 to 100 on a new line.
+>For each multiple of 3, print “Fizz” instead of the number.
+>For each multiple of 5, print “Buzz” instead of the number.
+>For numbers which are multiples of both 3 and 5, print “FizzBuzz” instead of the number.
 
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
+2.  [99 Bottles](http://www.99-bottles-of-beer.net/lyrics.html)
+- Create a file in this `js` repo in the `bin` folder and name it `bin/99bottles.js`
+>running the program should print the lyrics of the song, be efficient and use loops/if statements
 
-## EXAMPLE: Define "single-page application" (SPA)
 
-In your own words, define what a SPA is. In your answer, be sure to cite any
-relevant sources you consulted in your search.
+3. [Rock, Paper, Scissors](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors)
+- Create a file in this `js` repo in the `bin` folder and name it `bin/rps.js`
+> Write a script that takes rock, paper, or scissors as an argument, and picks a random one to pit it against. Log “Computer picked: <whatever one the computer picked>. You <win/lose>.
 
-```md
-<!-- your answer here -->
-```
 
-## EXAMPLE: Define "page" as used by non-developers
-
-What do users mean when they say "page"? What did you mean before your started
-your search to define SPAs?
-
-```md
-<!-- your answer here -->
-```
-
-## EXAMPLE: Define "view" and "view-state"
-
-Within the context of SPAs, what do developers mean when they say "view"? Since
-view can have many meanings, what do developers mean when they say "view-state"?
-How do front-end "routers" help manage view-state?
-
-```md
-<!-- your answer here -->
-```
+4. Dice Roller
+- Create a file in this `js` repo in the `bin` folder and name it `bin/die.js`
+>write a script that chooses two random numbers (1-6) and prints them to the console. It should also print the sum
+>BONUS: have your script take an argument of the # of dice to be rolled. i.e. if I run `node bin/dice-roller.js 5` it should roll 5 dice, print each dice result, and the sum
