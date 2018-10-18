@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- [js](https://www.git.generalassemb.ly/ga-wdi-boston/js)
+- [js](https://git.generalassemb.ly/ga-wdi-boston/js)
 
 ## Instructions
 
