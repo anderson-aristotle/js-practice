@@ -23,6 +23,7 @@ readings to research and respond to the following questions.
       - Write a script that takes rock, paper, or scissors as an argument, and
       picks a random one to pit it against.
       - Log “Computer picked: <whichever one the computer picked>. You <win/lose>.
+      - _**Hint:** Try using Numbers to relate to user choices like using 0 to refer to rock, 1 for paper, and 2 for scissors. Javascript includes a `random` method within the `Math` built-in object to help you generate these numbers._
 
 4. Dice Roller
       - Create a file in this `js` repo in the `bin` folder and name it `bin/die.js`
